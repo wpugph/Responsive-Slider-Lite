@@ -3,8 +3,8 @@ Contributors: carl-alberto
 Donate link: https://carl.alber2.com/
 Tags: slider, responsive slider, lightweight slider, bootstrap slider, image slider, image gallery, images, gallery, responsive wordpress slider
 Requires at least: 3.0.1
-Tested up to: 4.7.2
-Stable tag: 1.1.0
+Tested up to: 6.0.3
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,6 +48,9 @@ You need to put the shortcode first in any of your post/pages and enable the plu
 
 
 == Changelog ==
+
+= 1.1.1 =
+- Bumping for wWP v6.0.3 compatibility
 
 = 1.1.0 =
 - Updated to be compliant to WPCS
